@@ -1,0 +1,18 @@
+ion-content {
+  background: linear-gradient(to bottom, #40e0d0, #ff8c00, #ff0080);
+}
+
+h2 {
+  color: #27176d;
+  text-align: center;
+}
+
+p {
+  font-family:  'Times New Roman';
+  text-align: justify;
+}
+
+ion-item {
+  background-color: #eaec72
+}
+
